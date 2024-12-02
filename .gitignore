@@ -1,0 +1,4 @@
+.direnv
+
+# don't share inputs per https://adventofcode.com/2024/about
+**/input
